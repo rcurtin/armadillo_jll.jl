@@ -8,7 +8,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libarmadillo`
-const libarmadillo_splitpath = ["lib", "libarmadillo.9.80.3.dylib"]
+const libarmadillo_splitpath = ["lib", "libarmadillo.9.85.1.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libarmadillo_path = ""
